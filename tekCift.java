@@ -6,7 +6,7 @@ public class tekCift{
         System.out.println("sayi gir: ");
         sayi = gir.nextInt();
         if(sayi %2 == 0){
-            System.out.println("cift sayi");
+            System.out.println("cift sayi")
         }
         else{
             System.out.println("tek sayi");
